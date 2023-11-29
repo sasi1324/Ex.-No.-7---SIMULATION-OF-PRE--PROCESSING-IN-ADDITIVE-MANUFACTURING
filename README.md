@@ -44,9 +44,13 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Screenshot   2023-11-28 at 22 02 22_4a9aeaba](https://github.com/sasi1324/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150313315/1f8454b9-39d3-4063-ae56-28a84e1ec40b)
+![Screenshot   2023-11-28 at 22 02 22_2b373a55](https://github.com/sasi1324/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150313315/8ddb48e6-6517-49e4-a500-0f6f52f1bf10)
+![Screenshot    2023-11-28 at 22 02 22_98ffcc9d](https://github.com/sasi1324/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150313315/f61394c3-1f18-47e9-b6a6-eeb7a7ab2bfd)
+![Screenshot   2023-11-28 at 22 02 22_f69a7e27](https://github.com/sasi1324/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150313315/c1a2ff41-4078-4542-b081-62107ebb80a6)
 
-### Name:
-### Register Number:
+### Name: SASINTHARA S
+### Register Number: 23005130
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
